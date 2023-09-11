@@ -3,4 +3,4 @@ project(ProjectOne)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_library(ProjectOne library.cpp)
+add_library(ProjectOne kvs.cpp main.cpp)

@@ -1,6 +1,0 @@
-#ifndef PROJECTONE_LIBRARY_H
-#define PROJECTONE_LIBRARY_H
-
-void hello();
-
-#endif //PROJECTONE_LIBRARY_H
